@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe3e13d7-0cc8-4932-a757-5086d48ed9c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0105.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,9 +22,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,5 +44,23 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="91" key="#GOPATH" timestamp="1585580335824">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#GOPATH/0.0.1474.864@0.0.1474.864" timestamp="1585580335824" />
+    <state x="330" y="91" key="#GOROOT" timestamp="1585580291275">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#GOROOT/0.0.1474.864@0.0.1474.864" timestamp="1585580291275" />
+    <state x="518" y="187" key="FileChooserDialogImpl" timestamp="1585580334706">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="518" y="187" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1585580334706" />
+    <state x="239" y="74" key="SettingsEditor" timestamp="1585580286946">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="239" y="74" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1585580286946" />
   </component>
 </project>
