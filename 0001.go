@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func twoSum(nums []int, target int) []int {
 
 	otherSide := make(map[int]int)
@@ -18,4 +20,9 @@ func twoSum(nums []int, target int) []int {
 		}
 	}
 	return result
+}
+
+func main() {
+	var balance = []int{1, 2, 3}
+	fmt.Println(twoSum(balance, 4))
 }
