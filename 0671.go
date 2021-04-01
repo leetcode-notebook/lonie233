@@ -17,17 +17,17 @@ func findSecondMinimumValue(root *TreeNode) int {
 	}
 
 	if leftVal == -1 && rightVal == -1 {
-		 return getTwoMinNumber(leftVal,rightVal)
+		return getTwoMinNumber(leftVal, rightVal)
 	}
 
 	if leftVal == -1 {
-		 return rightVal
+		return rightVal
 	}
-
 
 	if rightVal == -1 {
 		return leftVal
 	}
+	return 0
 
 }
 
